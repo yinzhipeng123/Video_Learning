@@ -1,0 +1,22 @@
+.tools/
+.gradle/
+.kotlin/
+.idea/
+*.iml
+**/build/
+local.properties
+keystore.properties
+signing.properties
+.env
+.env.*
+*.jks
+*.keystore
+*.pyc
+__pycache__/
+outputs/
+.DS_Store
+Thumbs.db
+
+# Local diagnostic captures; final acceptance screenshots stay versioned.
+docs/screenshots/*-prepatch.png
+docs/screenshots/player-live.png
